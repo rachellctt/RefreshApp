@@ -16,6 +16,7 @@
 		1B4F1F8124BF456D006AE4A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B4F1F7F24BF456D006AE4A5 /* LaunchScreen.storyboard */; };
 		1B4F1F8C24BF456E006AE4A5 /* RefreshAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4F1F8B24BF456E006AE4A5 /* RefreshAppTests.swift */; };
 		1B4F1F9724BF456E006AE4A5 /* RefreshAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4F1F9624BF456E006AE4A5 /* RefreshAppUITests.swift */; };
+		1B9035E024BFC6BE00631F8D /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B9035DF24BFC6BE00631F8D /* Stopwatch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		1B4F1F9224BF456E006AE4A5 /* RefreshAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RefreshAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B4F1F9624BF456E006AE4A5 /* RefreshAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshAppUITests.swift; sourceTree = "<group>"; };
 		1B4F1F9824BF456E006AE4A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B9035DF24BFC6BE00631F8D /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				1B4F1F7F24BF456D006AE4A5 /* LaunchScreen.storyboard */,
 				1B4F1F8224BF456D006AE4A5 /* Info.plist */,
 				1B4F1F7A24BF4564006AE4A5 /* RefreshApp.xcdatamodeld */,
+				1B9035DF24BFC6BE00631F8D /* Stopwatch.swift */,
 			);
 			path = RefreshApp;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				1B4F1F7624BF4564006AE4A5 /* ViewController.swift in Sources */,
 				1B4F1F7224BF4563006AE4A5 /* AppDelegate.swift in Sources */,
+				1B9035E024BFC6BE00631F8D /* Stopwatch.swift in Sources */,
 				1B4F1F7424BF4564006AE4A5 /* SceneDelegate.swift in Sources */,
 				1B4F1F7C24BF4564006AE4A5 /* RefreshApp.xcdatamodeld in Sources */,
 			);
